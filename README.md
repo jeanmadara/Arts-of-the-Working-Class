@@ -33,6 +33,9 @@ Listen to the full EP on SoundCloud to experience the audio project: [Vasija de 
 ## Contributions
 
 If you would like to contribute to this project, feel free to open issues or submit pull requests. All contributions that align with the project’s goals are welcome.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/jeanmadara"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeanmadara" /></a></p><br><br>
+
 
 ## License
 
